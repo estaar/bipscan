@@ -5,7 +5,7 @@ setup(
     name='bipscan',
     version='0.0.1',
     description='My private package from private github repo',
-    url='http://github.com/estaar/bipscan.git',
+    url='git+ssh://git@github.com/estaar/bipscan.git',
     author='John Esther',
     author_email='estaarjohn@gmail.com',
     license='unlicense',
